@@ -7,6 +7,26 @@
 # DataPractitioner
 Data Practitioner
 
+<div align="center">
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github)](CODE_OF_CONDUCT.md) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Checkout+this+recipe+for+dbt+ClickHouse+MySQL+Data+Engineering&url=https://github.com/AnanthaRajuC/DataPractitioner&hashtags=DataEngineering) [![Twitter Follow](https://img.shields.io/twitter/follow/anantharajuc?label=follow%20me&style=social)](https://twitter.com/anantharajuc)
+</div>
+
+<div align="center">
+  <sub>Built with ❤︎ by <a href="https://twitter.com/anantharajuc">Anantha Raju C</a> and <a href="https://github.com/AnanthaRajuC/DataPractitioner/graphs/contributors">contributors</a>
+</div>
+
+</br>
+
+<p align="center">
+	<a href="https://github.com/AnanthaRajuC/DataPractitioner/blob/master/README.md#datapractitioner"><strong>Explore the docs »</strong></a>
+	<br />
+	<br />
+	<a href="https://github.com/AnanthaRajuC/DataPractitioner/issues">Report Bug</a>
+	·
+	<a href="https://github.com/AnanthaRajuC/DataPractitioner/issues">Request Feature</a>
+</p>
+
 ## Details
 
 - [Technology stack & other Open-source libraries](documents/TECHNOLOGY_STACK.MD) 
