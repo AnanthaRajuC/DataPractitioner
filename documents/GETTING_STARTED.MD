@@ -43,7 +43,7 @@ dbt docs generate
 <img src="images\3_dbt_docs_generate.png"/>
 
 ```shell
-dbt docs serve
+dbt docs serve  
 ```
 
 To access from your browser, navigate to: http://localhost:8080  
@@ -51,3 +51,23 @@ To access from your browser, navigate to: http://localhost:8080
 Press Ctrl+C to exit.  
 
 <img src="images\4_dbt_docs_serve.png"/>
+
+
+```shell
+cd models  
+mkdir sakila_db  
+cd sakila_db  
+```
+
+```shell
+touch actor_film_actor_join.sql
+touch point_of_interest_1.sql
+```
+
+```shell
+dbt build
+```
+
+Lineage Graph
+
+<img src="images\5_lineage_graph.png"/>
