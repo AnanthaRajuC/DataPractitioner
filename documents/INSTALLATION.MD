@@ -11,3 +11,13 @@ $ pip3 install clickhouse-mysql
 ```shell
 $ pip install dbt-core
 ```
+
+```shell
+$ pip install dagster dagster-webserver
+```
+
+A Dagster integration for dbt
+
+```shell
+$ pip install dagster-dbt
+```

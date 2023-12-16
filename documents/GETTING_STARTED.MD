@@ -71,3 +71,25 @@ dbt build
 Lineage Graph
 
 <img src="images\5_lineage_graph.png"/>
+
+```shell
+cd dbt_data_practitioner
+dagster-dbt project scaffold --project-name dagster_data_practitioner
+```
+
+<img src="images\6_dagster_data_practitioner.png"/>
+
+```shell
+cd dagster_data_practitioner
+DAGSTER_DBT_PARSE_PROJECT_ON_LOAD=1 dagster dev
+```
+
+<img src="images\7_dagster_launch.png"/>
+
+To access from your browser, navigate to: http://127.0.0.1:3000  
+
+<img src="images\8_dagster_asset_group_materialized.png"/>
+
+<img src="images\9_dagger_runs.png"/>
+
+<img src="images\10_dagger_run_details.png"/>
