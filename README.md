@@ -27,6 +27,16 @@ Data Practitioner
 	<a href="https://github.com/AnanthaRajuC/DataPractitioner/issues">Request Feature</a>
 </p>
 
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+-->
+
+|     Service     | Badge | Badge | Badge | Badge | Badge |
+|-----------------|-------|-------|-------|-------|-------|
+|  **GitHub**     |[![GitHub last commit](https://img.shields.io/github/last-commit/AnanthaRajuC/DataPractitioner)](https://github.com/AnanthaRajuC/DataPractitioner/commits/master)|[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/AnanthaRajuC/DataPractitioner)](https://github.com/AnanthaRajuC/DataPractitioner/pulls)|[![GitHub issues](https://img.shields.io/github/issues/AnanthaRajuC/DataPractitioner)](https://github.com/AnanthaRajuC/DataPractitioner/issues)|[![GitHub forks](https://img.shields.io/github/forks/AnanthaRajuC/DataPractitioner)](https://github.com/AnanthaRajuC/DataPractitioner/network)|[![GitHub stars](https://img.shields.io/github/stars/AnanthaRajuC/DataPractitioner)](https://github.com/AnanthaRajuC/DataPractitioner/stargazers)|
+
 ## Details
 
 - [Technology stack & other Open-source libraries](documents/TECHNOLOGY_STACK.MD) 
