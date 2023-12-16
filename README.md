@@ -6,7 +6,7 @@
 -->
 # DataPractitioner
 
-<img src="images\banner.png"/>
+<img src="documents\images\banner.png"/>
 
 <div align="center">
 
