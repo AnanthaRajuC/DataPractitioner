@@ -6,10 +6,7 @@
 -->
 # DataPractitioner
 
-- Dagster
-- dbt
-- ClickHouse
-- MySQL
+<img src="images\banner.png"/>
 
 <div align="center">
 
