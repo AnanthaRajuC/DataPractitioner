@@ -11,6 +11,7 @@
 
 ### Others 
 
-|                 Technology                |                              Description                                                                                                  |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-|<a href="https://dbeaver.io/">DBeaver</a>  |DBeaver Community is a free cross-platform database tool for developers, database administrators, analysts, and everyone working with data.|                                                                    
+|                 Technology                 |                              Description                                                                                                  |
+|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|<a href="https://dbeaver.io/">DBeaver</a>   |DBeaver Community is a free cross-platform database tool for developers, database administrators, analysts, and everyone working with data.|     
+|<a href="https://www.python.org/">Python</a>|Python is a programming language that lets you work quickly and integrate systems more effectively.                                        |                                                                                                                                   

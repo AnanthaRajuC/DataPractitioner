@@ -10,6 +10,8 @@ Data Practitioner
 ## Details
 
 - [Technology stack & other Open-source libraries](documents/TECHNOLOGY_STACK.MD) 
+- [Installation](documents/INSTALLATION.MD)  
+- [Getting Started](documents/GETTING_STARTED.MD) 
 
 ## Reporting Issues/Suggest Improvements
 
