@@ -11,6 +11,8 @@ Data Practitioner
 
 - [Technology stack & other Open-source libraries](documents/TECHNOLOGY_STACK.MD) 
 - [Installation](documents/INSTALLATION.MD)  
+- [Initial MySQL Data Preparation](documents/INITIAL_MySQL_DATA_PREPARATION.MD)  
+- [Extract Load](documents/EXTRACT_LOAD.MD)  
 - [Getting Started](documents/GETTING_STARTED.MD) 
 
 ## Reporting Issues/Suggest Improvements

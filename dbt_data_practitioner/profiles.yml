@@ -1,0 +1,11 @@
+dbt_data_practitioner:
+  target: dev
+  outputs:
+    dev:
+      type: clickhouse
+      schema: sakila_db
+      host: localhost
+      port: 8123
+      user: default
+      password: root
+      secure: False
