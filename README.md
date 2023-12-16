@@ -5,7 +5,11 @@
 *** Thanks again!
 -->
 # DataPractitioner
-Data Practitioner
+
+- Dagster
+- dbt
+- ClickHouse
+- MySQL
 
 <div align="center">
 
