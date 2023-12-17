@@ -8,6 +8,34 @@
 
 <img src="documents\images\banner.png"/>
 
+This GitHub project is a data engineering and analytics pipeline designed to handle the end-to-end process of extracting, transforming, and loading data from MySQL source into ClickHouse. The pipeline is orchestrated using Dagster, a data orchestrator that provides a unified workflow for managing data pipelines.
+
+The combination of Dagster, ClickHouse, DBT Core, and MySQL ensures a well-structured and maintainable architecture for end-to-end data processing.
+
+**Key Components:**
+
+1. Dagster: The core orchestrator that manages the workflow of the entire data pipeline. Dagster allows for the definition, scheduling, and monitoring of data workflows, ensuring reliability and scalability.
+
+2. ClickHouse: A columnar database used as the data warehouse for efficient storage and retrieval of large volumes of data. ClickHouse is optimized for analytical queries, making it suitable for data analytics and reporting.
+
+3. DBT Core: The data transformation layer that leverages the popular DBT (Data Build Tool) framework. DBT Core facilitates the transformation of raw data into a structured and meaningful format for analytics and reporting.
+
+4. MySQL: Used for data extraction and as a source database. MySQL plays a crucial role in the initial phase of the pipeline.
+
+**Workflow:**
+
+1. Data Extraction: Raw data is extracted from MySQL databases, serving as source systems. This could include data from various operational databases.
+
+2. Loading: The transformed data is loaded into ClickHouse, the designated data warehouse, where it is stored efficiently for analytical queries and reporting.
+
+3. Transformation: DBT Core processes and transforms the raw data into a clean, structured format suitable for analytics. Transformations may include aggregations, joins, and other operations to derive insights.
+
+4. Analytics: Once the data is in ClickHouse, analysts and data scientists can perform analytics and generate insights using SQL queries or other analytical tools.
+
+**How to Use:**
+
+Detailed documentation and instructions on setting up and configuring the pipeline are available in the project repository. Users can follow the guidelines to adapt the pipeline to their specific data sources and analytics requirements.
+
 <div align="center">
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github)](CODE_OF_CONDUCT.md) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Checkout+this+recipe+for+dbt+ClickHouse+MySQL+Data+Engineering&url=https://github.com/AnanthaRajuC/DataPractitioner&hashtags=DataEngineering) [![Twitter Follow](https://img.shields.io/twitter/follow/anantharajuc?label=follow%20me&style=social)](https://twitter.com/anantharajuc)
