@@ -4,7 +4,7 @@
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again!
 -->
-# DataPractitioner
+# This GitHub project is a data engineering and analytics pipeline designed to handle the end-to-end process of extracting, transforming, and loading data from MySQL source into ClickHouse. The pipeline is orchestrated using Dagster, a data orchestrator that provides a unified workflow for managing data pipelines.
 
 <img src="documents\images\banner.png"/>
 
